@@ -1,0 +1,29 @@
+h1 { 
+
+    color: white; 
+    
+    
+ }
+.tarefa-selecionada { 
+    color: red; 
+    font-style: italic; 
+}
+.tarefa-normal {
+     color:white; 
+    }
+
+.b { 
+        color: white; 
+        
+        
+}
+
+
+.posicao{
+    
+    position: absolute;
+    top: 90%;
+    transform: translate(0,-90%);
+    font-style: italic;
+
+}
